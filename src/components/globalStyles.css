@@ -1,6 +1,6 @@
 :root {
-  --primary: #00c2bd;
-  --secondary: #000;
+  --primary: #292C3F;
+  --secondary: #2B4B40;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
@@ -199,7 +199,7 @@ blockquote {
 
 .Button {
   background: var(--primary);
-  color: white;
+  color: #92A742;
   text-transform: uppercase;
   text-decoration: none;
   font-weight: 700;
