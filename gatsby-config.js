@@ -5,15 +5,15 @@ module.exports = {
     title: 'Yellowcake',
     siteUrl: 'https://yellowcake.netlify.com'
   },
-  flags: {
-    DEV_SSR: false,
-    FAST_REFRESH: true,
-    PARALLEL_SOURCING: true,
-    PRESERVE_FILE_DOWNLOAD_CACHE: true,
-    PRESERVE_WEBPACK_CACHE: true,
-    YARN_FLAGS: true,
-    YARN_VERSION: true
-  },
+  // flags: {
+  //   DEV_SSR: false,
+  //   FAST_REFRESH: true,
+  //   PARALLEL_SOURCING: true,
+  //   PRESERVE_FILE_DOWNLOAD_CACHE: true,
+  //   PRESERVE_WEBPACK_CACHE: true,
+  //   YARN_FLAGS: true,
+  //   YARN_VERSION: true
+  // },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
